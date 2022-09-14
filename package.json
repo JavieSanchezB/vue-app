@@ -7,7 +7,9 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "vue": "^3.2.38"
+    "bootstrap": "^5.2.1",
+    "bootstrap-vue": "^2.22.0",
+    "vue": "^3.2.39"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",
